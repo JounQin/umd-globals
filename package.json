@@ -46,7 +46,7 @@
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.1",
     "tsx": "^4.7.0",
-    "type-coverage": "^2.27.1",
+    "type-coverage": "^2.29.7",
     "typescript": "^5.3.3",
     "vue": "^3.4.15",
     "yarn-deduplicate": "^6.0.2"
