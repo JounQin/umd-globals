@@ -19,7 +19,7 @@
     "shim.d.ts"
   ],
   "peerDependencies": {
-    "@vitejs/plugin-vue": "^5.0.0",
+    "@vitejs/plugin-vue": "^5.2.1",
     "@vitejs/plugin-vue-jsx": "^3.0.0"
   },
   "peerDependenciesMeta": {
