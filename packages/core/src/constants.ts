@@ -6,4 +6,4 @@ export const cjsRequire =
   typeof require === 'undefined' ? createRequire(import.meta.url) : require
 
 // eslint-disable-next-line n/no-deprecated-api, sonar/deprecation
-export const EXTENSIONS = ['.ts', '.tsx', ...Object.keys(cjsRequire.extensions)]
+export const EXTENSIONS = ['.ts', '.tsx', ...Object.keys(cjsRequire.extensions || {})]
